@@ -1,0 +1,13 @@
+name: calx
+description: >
+  A functional, tree-shakeable date utility library for Dart.
+  Inspired by date-fns. Works directly on native DateTime - zero wrapper overhead.
+version: 0.1.0
+repository: https://github.com/meragix/calx
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
