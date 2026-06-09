@@ -8,3 +8,6 @@
 
 # pubspec.lock
 pubspec.lock
+
+# macOS
+.DS_Store
