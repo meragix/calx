@@ -5,7 +5,6 @@
 # IDEs
 .vscode/
 .idea/
-.DS_Store
 
 # pubspec.lock
 pubspec.lock
